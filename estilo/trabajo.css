@@ -1,0 +1,104 @@
+/*Especificidad: 001*/
+body {
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #b8b08d;
+  }
+/*Especificidad: 001*/
+h1 {
+  color: #D8D8F6;    
+  background-color:#283845; 
+  text-transform: uppercase;
+  padding: 2em; 
+  text-align: center;
+  display: flex;
+  margin-top: 0.3;
+  margin-bottom: 0.3;    
+  border-color: #04524e;
+  border-radius: 0.2in;
+  border-width: 0.2in;
+  border-spacing: 0.2in;
+  border-style: double;
+  }
+h2 {
+  color: #D8D8F6;    
+  background-color:rgb(204, 143, 129); 
+  text-transform: uppercase;
+  padding: 1em; 
+  text-align: center;   
+  display: flex;  
+  margin-top: 0.3in;
+  margin-bottom: 0.3in;
+  }
+
+header{
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #fff;
+}
+main{
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #fff;
+
+}
+article{
+  font-family: Tahoma, sans-serif;
+  color: #424242;
+  background-color: #fff;
+}
+section{
+  font-family: Tahoma, sans-serif;
+  color: #424242;
+  background-color: #fff;
+}
+table{
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #04524e;
+  display: table;
+  margin-top: 0.3in;
+  margin-bottom: 0.3in;
+  border-color: #04524e;
+  border-style: groove;
+  border-radius: 0.1in;
+  border-width: 0.05in;
+
+
+}
+tr{
+  font-family: Tahoma, sans-serif;
+  color: #D8D8F6;
+  background-color: #283845;
+}
+td{
+  font-family: Tahoma, sans-serif;
+  color: #D8D8F6;
+  background-color: #283845;
+}
+caption{
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #b8b08d;
+}
+li{
+  font-family: Tahoma, sans-serif;
+  color: #04524e;
+  background-color: #fffffff3;
+}
+form{
+  font-family: Tahoma, sans-serif;
+  color: #000000;
+  background-color: #7fcaf5;
+  margin-top: 0.3in;
+  margin-bottom: 0.3in;
+}
+a{
+  font-family: Tahoma, sans-serif;
+  color: #1f3fa8;
+  background-color: #b8b08d;
+  margin-top: 0.3in;
+  margin-bottom: 0.3in;
+}
+
+
